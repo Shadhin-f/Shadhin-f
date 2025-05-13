@@ -36,7 +36,7 @@
 ### Tools & Platforms  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
+![](https://github-profile-trophy.vercel.app/?username=shadhin-f&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 ---
 ### Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shadhin_f) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:tj.shadhin001@gmail.com)
