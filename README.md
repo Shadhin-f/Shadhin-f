@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  ## On a journey to make an impact!
+  <h1>On a journey to make an impact!</h1>
   
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25oc3F4N2FkaTNoeW8xbWM5azZyc3A5eGM4aDY0bzR5ZmpmNmEwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="300"/><br/><br/>
   
