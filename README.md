@@ -1,6 +1,8 @@
 ## On a journey to make an impact!
 
-![Hello](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25oc3F4N2FkaTNoeW8xbWM5azZyc3A5eGM4aDY0bzR5ZmpmNmEwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25oc3F4N2FkaTNoeW8xbWM5azZyc3A5eGM4aDY0bzR5ZmpmNmEwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="300"/>
+</div>
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=shadhin-f&theme=gotham&hide_border=false)<br/>
