@@ -2,10 +2,12 @@
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25oc3F4N2FkaTNoeW8xbWM5azZyc3A5eGM4aDY0bzR5ZmpmNmEwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="300"/>
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=shadhin-f&theme=gotham&hide_border=false)<br/>
 </div>
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=shadhin-f&theme=gotham&hide_border=false)<br/>
+
 
 ### Programming Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
